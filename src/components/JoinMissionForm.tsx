@@ -74,7 +74,7 @@ export const JoinMissionForm: React.FC<JoinMissionFormProps> = ({ onAddVolunteer
                   Volunteer Sign-Up
                 </h3>
                 <p className="text-xs sm:text-sm text-slate-600 mt-1">
-                  Join over 1,500 active city volunteers making a tangible impact.
+                  Join active city volunteers making a tangible impact.
                 </p>
               </div>
 

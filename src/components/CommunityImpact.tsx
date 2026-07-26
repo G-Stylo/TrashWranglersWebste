@@ -10,9 +10,9 @@ export const CommunityImpact: React.FC<CommunityImpactProps> = ({ setActiveTab }
   const impactCards = [
     {
       id: 1,
-      title: 'Citywide Street & Park Cleanups',
+      title: 'Citywide Street Cleanups',
       category: 'Environmental Restoration',
-      description: 'Over 1,500 volunteers have mobilized across 12 city sectors to clear litter, restore riverbanks, and beautify neighborhood thoroughfares.',
+      description: 'Volunteers have mobilized across the city to clear litter, restore parks, and beautify neighborhood thoroughfares.',
       imageUrl: 'https://images.unsplash.com/photo-1618477461853-cf6ed80faba5?auto=format&fit=crop&w=800&q=80',
       badge: '15,000+ lbs Trash Cleared',
       badgeColor: 'bg-emerald-100 text-emerald-900 border-emerald-300',

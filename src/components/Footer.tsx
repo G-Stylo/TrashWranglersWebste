@@ -25,7 +25,7 @@ export const Footer: React.FC<FooterProps> = ({ setActiveTab }) => {
               </div>
               <div>
                 <span className="font-black text-xl text-slate-900 block leading-tight">
-                  Clean City Initiative
+                  The Trash Wranglers
                 </span>
                 <span className="text-[10px] text-emerald-700 font-bold uppercase tracking-widest">
                   Clean Streets, Bright Futures
@@ -34,7 +34,7 @@ export const Footer: React.FC<FooterProps> = ({ setActiveTab }) => {
             </div>
 
             <p className="text-xs text-slate-600 leading-relaxed max-w-sm">
-              We are a community-led initiative restoring city health, reviving parks, and empowering homeless neighbors through dignity, work opportunities, and social support.
+              We are an organization that brings high school students and volunteers together to clean up San Dimas and improve our community. Through environmental service projects, we provide opportunities for volunteers to give back, make a difference, and earn volunteer hours.
             </p>
           </div>
 

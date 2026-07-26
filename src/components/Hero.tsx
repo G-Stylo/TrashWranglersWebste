@@ -18,7 +18,7 @@ export const Hero: React.FC<HeroProps> = ({ setActiveTab }) => {
             {/* Top Pill Badge */}
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-100 border border-emerald-300 text-emerald-900 text-xs font-bold uppercase tracking-wider shadow-sm">
               <Sparkles className="w-3.5 h-3.5 text-emerald-700" />
-              <span>Community Environmental & Social Initiative</span>
+              <span>About Us</span>
             </div>
 
             {/* Main Headline */}
@@ -31,22 +31,23 @@ export const Hero: React.FC<HeroProps> = ({ setActiveTab }) => {
 
             {/* Subheadline */}
             <p className="text-lg sm:text-xl text-slate-600 font-normal leading-relaxed max-w-2xl">
-              We are a community-led environmental initiative dedicated to city cleanups, park restoration, and holistic social support for unhoused neighbors. Together, we build a cleaner, safer city for everyone.
+              We are an organization that brings high school students and volunteers together to clean up San Dimas and improve our community. Through environmental service projects, we provide opportunities for volunteers to give back, make a difference, and earn volunteer hours.
+
             </p>
 
             {/* Key Stat Highlights */}
             <div className="pt-4 grid grid-cols-3 gap-4 border-t border-slate-200 max-w-xl">
               <div>
-                <div className="text-2xl sm:text-3xl font-black text-emerald-700">15,000+</div>
-                <div className="text-xs text-slate-600 font-semibold">Lbs Trash Removed</div>
+                <div className="text-2xl sm:text-3xl font-black text-emerald-700"></div>
+                <div className="text-xs text-slate-600 font-semibold"></div>
               </div>
               <div>
-                <div className="text-2xl sm:text-3xl font-black text-emerald-800">200+</div>
-                <div className="text-xs text-slate-600 font-semibold">Parks Restored</div>
+                <div className="text-2xl sm:text-3xl font-black text-emerald-800"></div>
+                <div className="text-xs text-slate-600 font-semibold"></div>
               </div>
               <div>
-                <div className="text-2xl sm:text-3xl font-black text-teal-800">1,200+</div>
-                <div className="text-xs text-slate-600 font-semibold">Neighbors Supported</div>
+                <div className="text-2xl sm:text-3xl font-black text-teal-800"></div>
+                <div className="text-xs text-slate-600 font-semibold"></div>
               </div>
             </div>
 
@@ -96,8 +97,8 @@ export const Hero: React.FC<HeroProps> = ({ setActiveTab }) => {
                   <TreePine className="w-4 h-4" />
                   <span>City Restoration</span>
                 </div>
-                <div className="text-base font-extrabold text-slate-900">Saturday Community Cleanup Squads</div>
-                <div className="text-xs text-slate-600">Join over 1,500 active residents making a difference</div>
+                <div className="text-base font-extrabold text-slate-900">Sunday Community Cleanup Squads</div>
+                <div className="text-xs text-slate-600">Join active residents making a difference</div>
               </div>
             </div>
           </div>

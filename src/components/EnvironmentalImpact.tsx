@@ -5,19 +5,19 @@ export const EnvironmentalImpact: React.FC = () => {
   const points = [
     {
       icon: Trash2,
-      text: '15,000+ lbs of trash removed from our city streets annually.',
+      text: 'Countless lbs of trash removed from our city streets annually.',
     },
     {
       icon: TreePine,
-      text: '200+ city parks restored and maintained through community cleanups.',
+      text: 'Multiple streets and neighborhoods restored and maintained through community cleanups.',
     },
     {
       icon: Recycle,
-      text: '100% of collected waste is sorted and recycled into local programs.',
+      text: 'Collected waste is disposed of in a healthy and reasonable manner',
     },
     {
       icon: TrendingDown,
-      text: 'Our efforts have reduced local pollution by 35% in the past year.',
+      text: 'Our efforts have reduced local pollution substantially',
     },
   ];
 
@@ -29,15 +29,15 @@ export const EnvironmentalImpact: React.FC = () => {
           {/* Left Column: City Park Image */}
           <div className="relative rounded-3xl overflow-hidden shadow-md border border-slate-200 min-h-[380px] lg:min-h-[480px] group">
             <img
-              src="https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=1200&q=85"
+              src="https://admin.onlyinyourstate.com/wp-content/uploads/sites/2/2020/08/25488915045_fdf24cda83_c.jpg"
               alt="Restored city park with vibrant flower beds and clean pathways"
               className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-700"
             />
             <div className="absolute inset-0 bg-slate-900/20" />
             <div className="absolute bottom-6 left-6 right-6 text-slate-900 p-4 rounded-2xl bg-white/95 backdrop-blur-md border border-slate-200 shadow-lg">
               <div className="text-xs uppercase font-bold text-emerald-800 tracking-wider">Restored Location</div>
-              <div className="text-lg font-extrabold text-slate-900">Oakwood Community Park & Arboretum</div>
-              <div className="text-xs text-slate-600">Maintained bi-weekly by North District Eco Guardians</div>
+              <div className="text-lg font-extrabold text-slate-900">Downtown San Dimas</div>
+              <div className="text-xs text-slate-600">Cleaned monthly by volunteers</div>
             </div>
           </div>
 
@@ -71,7 +71,7 @@ export const EnvironmentalImpact: React.FC = () => {
 
               {/* Sub-text footer */}
               <div className="pt-4 border-t border-slate-100 flex items-center justify-between text-xs text-slate-500">
-                <span>Verified by Regional Ecology Board</span>
+                <span>Join the effort today!</span>
                 <span className="font-bold text-emerald-800">Updated August 2026</span>
               </div>
             </div>

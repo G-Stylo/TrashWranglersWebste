@@ -9,17 +9,17 @@ export const OurMission: React.FC = () => {
         {/* Top Badge */}
         <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-emerald-100 text-emerald-900 text-xs font-bold uppercase tracking-widest border border-emerald-300">
           <Sparkles className="w-3.5 h-3.5 text-emerald-700" />
-          <span>Core Values & Vision</span>
+          <span>Information For Highschoolers & Volunteers</span>
         </div>
 
         {/* Headline */}
         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-900 tracking-tight leading-tight">
-          Our Mission
+          Additional Info
         </h2>
 
         {/* Description */}
         <p className="text-lg sm:text-xl text-slate-600 font-normal leading-relaxed max-w-3xl mx-auto">
-          We are dedicated to a cleaner, more compassionate city. Our mission combines environmental restoration with holistic social support, ensuring that every corner of our community is safe, clean, and welcoming for all.
+          We make many strides towards creating a healthier environment. We meet the first Sunday of every month for multiple hours to help clean up trash around San Dimas. This is a good way to help the community as well as gain volunteering hours for graduation requirements or college resumes.
         </p>
 
         {/* 3 Pillars Card Grid */}
@@ -31,7 +31,7 @@ export const OurMission: React.FC = () => {
             </div>
             <h3 className="text-xl font-bold text-slate-900 mb-2">Environmental Restoration</h3>
             <p className="text-sm text-slate-600 leading-relaxed">
-              Organizing daily and weekly neighborhood cleanups, riverway restoration, and zero-waste recycling drives.
+              Organizing weekly and monthly neighborhood cleanups, city restoration, and volunteering events.
             </p>
           </div>
 
@@ -39,9 +39,9 @@ export const OurMission: React.FC = () => {
             <div className="w-12 h-12 rounded-xl bg-amber-100 text-amber-900 flex items-center justify-center mb-4">
               <Heart className="w-6 h-6" />
             </div>
-            <h3 className="text-xl font-bold text-slate-900 mb-2">Holistic Social Support</h3>
+            <h3 className="text-xl font-bold text-slate-900 mb-2">Volunteering Hours</h3>
             <p className="text-sm text-slate-600 leading-relaxed">
-              Providing hot meals, essential hygiene kits, transitional shelter navigators, and workforce rehabilitation opportunities.
+              Provides hours of volunteering hours every month, helping to reach goals and requirements.
             </p>
           </div>
 

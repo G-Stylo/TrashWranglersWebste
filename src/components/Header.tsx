@@ -34,7 +34,7 @@ export const Header: React.FC<HeaderProps> = ({
             </div>
             <div>
               <span className="font-black text-xl sm:text-2xl tracking-tight text-slate-900 block leading-tight group-hover:text-emerald-700 transition-colors">
-                Clean City Initiative
+                The Trash Wranglers
               </span>
               <span className="text-[11px] text-emerald-800 uppercase tracking-widest font-bold block">
                 Restoring Community & Environment

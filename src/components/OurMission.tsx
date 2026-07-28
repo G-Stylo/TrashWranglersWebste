@@ -9,12 +9,12 @@ export const OurMission: React.FC = () => {
         {/* Top Badge */}
         <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-emerald-100 text-emerald-900 text-xs font-bold uppercase tracking-widest border border-emerald-300">
           <Sparkles className="w-3.5 h-3.5 text-emerald-700" />
-          <span>Information For Highschoolers & Volunteers</span>
+          <span>Mission Statement</span>
         </div>
 
         {/* Headline */}
         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-900 tracking-tight leading-tight">
-          Additional Info
+          Our Mission
         </h2>
 
         {/* Description */}

@@ -31,7 +31,7 @@ export const OurMission: React.FC = () => {
             </div>
             <h3 className="text-xl font-bold text-slate-900 mb-2">Environmental Restoration</h3>
             <p className="text-sm text-slate-600 leading-relaxed">
-              Organizing weekly and monthly neighborhood cleanups, city restoration, and volunteering events.
+              Organizing monthly neighborhood cleanups throughout the city of San Dimas.
             </p>
           </div>
 
@@ -41,7 +41,7 @@ export const OurMission: React.FC = () => {
             </div>
             <h3 className="text-xl font-bold text-slate-900 mb-2">Volunteering Hours</h3>
             <p className="text-sm text-slate-600 leading-relaxed">
-              Provides hours of volunteering hours every month, helping to reach goals and requirements.
+              Providing opportunities for community service hours by bettering our city.
             </p>
           </div>
 
@@ -51,7 +51,7 @@ export const OurMission: React.FC = () => {
             </div>
             <h3 className="text-xl font-bold text-slate-900 mb-2">Community Empowerment</h3>
             <p className="text-sm text-slate-600 leading-relaxed">
-              Uniting residents, youth, local businesses, and municipal partners in grass-roots stewardship for lasting impact.
+              Uniting residents, youth, local businesses, and municipal partners in youth-led conservation for our environment.
             </p>
           </div>
 

@@ -72,7 +72,7 @@ export const EnvironmentalImpact: React.FC = () => {
               {/* Sub-text footer */}
               <div className="pt-4 border-t border-slate-100 flex items-center justify-between text-xs text-slate-500">
                 <span>Join the effort today!</span>
-                <span className="font-bold text-emerald-800">Updated August 2026</span>
+                <span className="font-bold text-emerald-800"></span>
               </div>
             </div>
           </div>

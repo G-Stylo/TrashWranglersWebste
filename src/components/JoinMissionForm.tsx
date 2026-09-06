@@ -2,8 +2,8 @@ import React from 'react';
 import { ExternalLink, HeartHandshake, ClipboardList, ShieldCheck } from 'lucide-react';
 
 export const JoinMissionForm: React.FC = () => {
-  // Placeholder Google Form link
-  const googleFormUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSc_placeholder_form_id/viewform';
+  // Google Form link
+  const googleFormUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSdjCA6-wPu5BjV9CnT1alRm-dQz6ZWbKhDb1-PVHIRkyHFZMg/viewform?usp=dialog';
 
   return (
     <section className="py-20 lg:py-24 bg-white text-slate-900 relative">

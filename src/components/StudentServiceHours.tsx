@@ -7,18 +7,18 @@ interface StudentServiceHoursProps {
 }
 
 export const StudentServiceHours: React.FC<StudentServiceHoursProps> = ({ setActiveTab }) => {
-  const googleFormUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSc_placeholder_form_id/viewform';
+  const googleFormUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSdjCA6-wPu5BjV9CnT1alRm-dQz6ZWbKhDb1-PVHIRkyHFZMg/viewform?usp=dialog';
 
   const benefits = [
     {
       icon: FileCheck2,
       title: 'Official Hour Verification',
-      description: 'On-site digital or paper signatures for school logs, National Honor Society (NHS), IB, and college applications.',
+      description: 'On-site paper signatures for school logs, National Honor Society (NHS), IB, and college applications.',
     },
     {
       icon: Clock,
       title: 'Flexible Student Schedules',
-      description: 'Weekend morning cleanups and weekday afternoon park restoration shifts designed around school hours.',
+      description: 'Weekend morning cleanups and park restorations designed around school hours.',
     },
     {
       icon: Award,

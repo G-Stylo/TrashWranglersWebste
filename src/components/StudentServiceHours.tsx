@@ -29,7 +29,7 @@ export const StudentServiceHours: React.FC<StudentServiceHoursProps> = ({ setAct
 
   const steps = [
     { step: '01', title: 'Register', desc: 'Fill out our volunteer Google Form or sign up for an upcoming event.' },
-    { step: '02', title: 'Participate', desc: 'Join a 2–3 hour cleanup, tree planting, or outreach event in your district.' },
+    { step: '02', title: 'Participate', desc: 'Join a 2–3 hour cleanup event in San Dimas.' },
     { step: '03', title: 'Get Verified', desc: 'Bring your school service form for an instant signature after your shift.' },
   ];
 
